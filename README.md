@@ -1,15 +1,8 @@
+---
+html:
+	toc: true
+---
 # 你好，欢迎来到迟法和的个人主页！
-
-## 目录
-
-- [你好，欢迎来到迟法和的个人主页！](#你好欢迎来到迟法和的个人主页)
-  - [目录](#目录)
-  - [自我介绍](#自我介绍)
-  - [活跃平台](#活跃平台)
-    - [bilibili](#bilibili)
-    - [AcFun](#acfun)
-    - [百度贴吧](#百度贴吧)
-  - [联系方式](#联系方式)
 
 ## 自我介绍
 
@@ -19,18 +12,18 @@
 
 ### bilibili
 
-* 个人主页：[迟法和的个人空间-迟法和个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/3493285832165430)
-* 直播间：[迟法和 - 哔哩哔哩直播，二次元弹幕直播平台 (bilibili.com)](https://live.bilibili.com/27707934)
+- 个人主页：[迟法和的个人空间-迟法和个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/3493285832165430){target="_blank"}
+- 直播间：[迟法和 - 哔哩哔哩直播，二次元弹幕直播平台 (bilibili.com)](https://live.bilibili.com/27707934){target="_blank"}
 
 ### AcFun
 
-* 个人主页：[迟法和的个人空间 -AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ](https://www.acfun.cn/u/60776281)
+- 个人主页：[迟法和的个人空间 -AcFun 弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ](https://www.acfun.cn/u/60776281){target="_blank"}
 
 ### 百度贴吧
 
-* 个人主页：[迟法和debu的贴吧 (baidu.com)](https://tieba.baidu.com/home/main?id=tb.1.b9543c25.SrowXIOSDsEHLPn4dEBD2w)
+- 个人主页：[迟法和 debu 的贴吧 (baidu.com)](https://tieba.baidu.com/home/main?id=tb.1.b9543c25.SrowXIOSDsEHLPn4dEBD2w){target="_blank"}
 
 ## 联系方式
 
-* QQ：673187135
-* 邮箱：673187135@qq.com
+- QQ：673187135
+- 邮箱：673187135@qq.com
