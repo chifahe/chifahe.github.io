@@ -28,21 +28,24 @@
         </style>
     </head>
     <body>
-        <iframe id="readme" src="./README.html"></iframe>
+        <!-- FIXME: I should not write too many things in README. Maybe just claim that this is my page is OK. -->
+        <iframe id="readme" src="./content.zh_cn.html"></iframe>
         <div id="toolbar">
             <a id="change_language" href="javascript:SwitchLanguage()">Switch to English</a>
         </div>
         <script>
             const change_language = document.getElementById("change_language");
+            const readme = document.getElementById("readme");
 
             function SwitchLanguage() {
-                readme = document.getElementById("readme");
                 if (change_language.innerHTML == "Switch to English") {
-                    readme.src = "README_en.html";
+                    readme.src = "./content.zh_cn.html";
                     change_language.innerHTML = "切换至中文";
+                    document.title="Welcome to chifahe's homepage!";
                 } else {
-                    readme.src = "README.html";
+                    readme.src = "./content.zh_cn.html";
                     change_language.innerHTML = "Switch to English";
+                    document.title="欢迎来到迟法和的个人主页！";
                 }
             }
         </script>
