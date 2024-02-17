@@ -1,6 +1,6 @@
 # 你好，欢迎来到迟法和的个人主页！
 
-Read this in English?
+[Read this in English?](https://github.com/chifahe/chifahe.github.io/blob/main/README.en_us.md)
 
 这里是我个人主页的仓库，主要用于记录更新日志。
 
