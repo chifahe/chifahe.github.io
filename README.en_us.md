@@ -6,10 +6,15 @@ If you want to visit my homepage, please go to: [https://chifahe.github.io/](htt
 
 ## Change log
 
-2024.2.18
+### 2024.2.28
+
+1. Added open source project navigation.
+2. Changed the way hyperlinks are written.
+
+### 2024.2.18
 
 1. Added English translation of website.
 
-2024.2.17
+### 2024.2.17
 
 1. Added English version of README.

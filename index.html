@@ -33,10 +33,11 @@
             <a id="change_language" href="javascript:SwitchLanguage()">Switch to English</a>
         </div>
         <script>
-            // Elements that used in scripts.
+            // Objects
             const change_language = document.getElementById("change_language");
             const content = document.getElementById("content");
 
+            // Functions
             function SwitchLanguage() {
                 if (change_language.innerHTML == "Switch to English") {
                     content.src = "./content.en_us.html";
