@@ -6,6 +6,11 @@ If you want to visit my homepage, please go to: [https://chifahe.github.io/](htt
 
 ## Change log
 
+### 2024.3.4
+
+1. Added the open source project of Battle-for-SCHALE.
+2. Changed page format.
+
 ### 2024.2.28
 
 1. Added open source project navigation.

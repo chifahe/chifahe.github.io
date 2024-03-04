@@ -21,31 +21,31 @@
                 width: 98%;
                 margin: 1%;
             }
-            #change_language {
+            #switch_language_btn {
                 position: absolute;
                 right: 0%;
             }
         </style>
     </head>
     <body>
-        <iframe id="content" src="./content.zh-cn.html"></iframe>
+        <iframe id="markdown_container" src="./content.zh-cn.html"></iframe>
         <div id="toolbar">
-            <a id="change_language" href="javascript:switchLanguage()">Switch to English</a>
+            <a id="switch_language_btn" href="javascript:switchLanguage()">Switch to English</a>
         </div>
         <script>
             // Objects
-            const change_language = document.getElementById("change_language");
-            const content = document.getElementById("content");
+            const SWITCH_LANGUAGE_BTN = document.getElementById("switch_language_btn");
+            const MARKDOWN_CONTAINER = document.getElementById("markdown_container");
 
             // Functions
             function switchLanguage() {
-                if (change_language.innerHTML == "Switch to English") {
-                    content.src = "./content.en-us.html";
-                    change_language.innerHTML = "切换至中文";
+                if (SWITCH_LANGUAGE_BTN.innerHTML == "Switch to English") {
+                    MARKDOWN_CONTAINER.src = "./content.en-us.html";
+                    SWITCH_LANGUAGE_BTN.innerHTML = "切换至中文";
                     document.title = "Welcome to chifahe's homepage!";
                 } else {
-                    content.src = "./content.zh-cn.html";
-                    change_language.innerHTML = "Switch to English";
+                    MARKDOWN_CONTAINER.src = "./content.zh-cn.html";
+                    SWITCH_LANGUAGE_BTN.innerHTML = "Switch to English";
                     document.title = "欢迎来到迟法和的个人主页！";
                 }
             }
