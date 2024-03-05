@@ -10,7 +10,7 @@ I am an ordinary programmer with numerous interests. I usually like to share my 
 
 1. [VHE](https://github.com/chifahe/VHE){target="_blank"} (unfinished): A visual HTML editor that can quickly build HTML pages by dragging boxes.
 2. [wiewer](https://github.com/chifahe/wiewer){target="_blank"} (unfinished): A media viewer built based on WebView2, taking up only a very small space.
-3. [Battle-for-SCHALE](https://github.com/chifahe/Battle-for-SCHALE){target="_blank"} (unfinished): Blue Files fan TPS game.
+3. [Battle-for-SCHALE](https://github.com/chifahe/Battle-for-SCHALE){target="_blank"} (unfinished): Blue Archive fan TPS game.
 
 ## Active platform
 
