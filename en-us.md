@@ -3,7 +3,7 @@ html:
 toc: true
 ---
 # Welcome to Chi Fahe’s personal homepage!
-[看不懂英文？](https://chifahe.github.io/index_en-us.html)
+[看不懂英文？](https://chifahe.github.io/index.html)
 ## my information
 I am a college student from China and hope to become an Internet celebrity one day.  
 My level is generally limited, so I hope you can give me some advice!

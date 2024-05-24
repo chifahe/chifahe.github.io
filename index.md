@@ -3,7 +3,7 @@ html:
 	toc: true
 ---
 # 欢迎来到迟法和的个人主页！
-[Read this in English?]()
+[Read this in English?](https://chifahe.github.io/en-us.html)
 ## 我的信息
 我是一名来自中国的大学生，希望有朝一日能成为互联网红人。  
 水平一般能力有限，希望大家多多指教！
