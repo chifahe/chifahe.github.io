@@ -1,7 +1,6 @@
 ---
 title: 关于我 ｜ About Me
 date: 2024-11-09 18:00:25
-tags:
 ---
 <h1 align="center">你好👋，我是迟法和<br/>Hi 👋, I'm chifahe</h1>
 <h3 align="center">一个来自中国的大学生<br/>A college student from China.</h3>

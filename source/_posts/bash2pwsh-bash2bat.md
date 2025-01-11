@@ -1,7 +1,12 @@
 ---
 title: 将Bash脚本转为PowerShell或者Batch的工具 ｜ Tools can be used to convert Bash scripts into PowerShell or Batch
 date: 2024-11-09 18:14:48
-tags:
+categories: 文章 ｜ Articles
+tags: 
+    - Bash
+    - Batch
+    - PowerShell
+    - 工具 | Tools
 ---
 # 前言 ｜ Preface
 各位写脚本的时候是否遇见过要为每个平台都写一份脚本的麻烦事？明明python很好用，但是为了无依赖运行只能用原生脚本？前段时间我写校园网登录脚本的时候就遇见了这个麻烦。  
