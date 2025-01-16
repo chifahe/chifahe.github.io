@@ -5,10 +5,10 @@ date: 2024-11-09 18:00:25
 
 # 语言 ｜ Language
 
--   [中文](#中文版)
--   [English](#english-version)
+-   [中文](#中文)
+-   [English](#english)
 
-# 中文版
+# 中文
 
 <h1 align="center">你好👋，我是chifahe</h1>
 <h3 align="center">一个来自中国的学生</h3>
@@ -43,7 +43,7 @@ date: 2024-11-09 18:00:25
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chifahe&" alt="chifahe" /></p>
 
-# English Version
+# English
 
 <h1 align="center">Hi 👋, I'm chifahe</h1>
 <h3 align="center">A college student from China</h3>
