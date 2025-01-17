@@ -63,6 +63,8 @@ https://chifahe.github.io/Convert-Bash-to-PowerShell-Online/
 
 虽然但是，在实际使用中我们往往会用到一些特定平台才会有的指令，比如 windows 下的计划任务 schtasks，linux 下的 systemd，又或者是在 linux 和 macos 下语法相似但细节又不同的的 sed，导致实际上减少不了多少工作量。这么看来，还是 python 好用～
 
+---
+
 # English
 
 ## Preface

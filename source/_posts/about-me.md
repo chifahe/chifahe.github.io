@@ -43,6 +43,8 @@ date: 2024-11-09 18:00:25
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chifahe&" alt="chifahe" /></p>
 
+---
+
 # English
 
 <h1 align="center">Hi 👋, I'm chifahe</h1>
