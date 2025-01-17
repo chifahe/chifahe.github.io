@@ -6,7 +6,7 @@ date: 2024-11-09 18:00:25
 # 语言 ｜ Language
 
 -   [中文](#中文)
--   [English](#english)
+-   [English](#English)
 
 # 中文
 

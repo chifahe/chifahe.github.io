@@ -12,7 +12,7 @@ tags:
 # 语言 ｜ Language
 
 -   [中文](#中文)
--   [English](#english)
+-   [English](#English)
 
 # 中文
 
