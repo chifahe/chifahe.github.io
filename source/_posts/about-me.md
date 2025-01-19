@@ -1,14 +1,11 @@
 ---
-title: 关于我 ｜ About Me
+title: About Me
 date: 2024-11-09 18:00:25
 ---
 
-# 语言 ｜ Language
+([简体中文](#简体中文)|[English](#English))
 
--   [中文](#中文)
--   [English](#English)
-
-# 中文
+# 简体中文
 
 <h1 align="center">你好👋，我是chifahe</h1>
 <h3 align="center">一个来自中国的学生</h3>

@@ -1,20 +1,19 @@
 ---
-title: 将Bash脚本转为PowerShell或者Batch的工具 ｜ Tools can be used to convert Bash scripts into PowerShell or Batch
+title: Tools can be used to convert Bash scripts into PowerShell or Batch
 date: 2024-11-09 18:14:48
-categories: 文章 ｜ Articles
+categories: Articles
 tags:
     - Bash
     - Batch
     - PowerShell
-    - 工具 | Tools
+    - Tools
 ---
 
-# 语言 ｜ Language
+([简体中文](#简体中文)|[English](#English))
 
--   [中文](#中文)
--   [English](#English)
+# 简体中文
 
-# 中文
+# 将 Bash 脚本转为 PowerShell 或者 Batch 的工具
 
 ## 前言
 
@@ -66,6 +65,8 @@ https://chifahe.github.io/Convert-Bash-to-PowerShell-Online/
 ---
 
 # English
+
+# Tools can be used to convert Bash scripts into PowerShell or Batch
 
 ## Preface
 
