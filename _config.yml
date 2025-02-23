@@ -102,5 +102,5 @@ theme: arknights
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repogistory: https://github.com/chifahe/chifahe.github.io.git
+  repo: https://github.com/chifahe/chifahe.github.io.git
   branch: deploy

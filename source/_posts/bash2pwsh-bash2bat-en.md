@@ -12,7 +12,7 @@ tags:
 ## Preface
 
 Have you ever encountered the hassle of writing separate scripts for each platform when scripting? Despite Python being a great choice, it can only be used to run natively if it's an original script. I experienced this issue myself when writing a script to log in to the campus network recently.  
-At the beginning, I thought of designing a language that could compile to other scripts to achieve "one write, run anywhere", similar to Haxe and CMake. However, after thinking about it, I decided to translate existing bash scripts instead. So, I went on a search on GitHub and finally found two open-source projects, one implementing bash to PowerShell and the other implementing bash to BAT.
+At the beginning, I thought of designing a language that could compile to other scripts, similar to Haxe and CMake. However, after thinking about it, I decided to translate existing bash scripts instead. So, I went on a search on GitHub and finally found two open-source projects, one implementing bash to PowerShell and the other implementing bash to BAT.
 
 ## Bash -> Bat
 
@@ -31,7 +31,7 @@ https://daniel-sc.github.io/bash-shell-to-bat-converter/
 
 ### Note
 
-This script cannot guarantee 100% accurate translation, but it's better than writing everything from scratch.
+This script cannot guarantee 100% accurate translation.
 
 ## Bash -> PowerShell
 
